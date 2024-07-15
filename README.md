@@ -1,9 +1,11 @@
 👋 Hi, I’m @Exilas42 (or Alexis)  
 💻 I’m a full-stack and mobile developer
 
-### Tech 🧑‍💻
-- Kotlin 👽
+### Tech 👨‍💻
 - Javascript/typescript 🟡🔵 (Angular, Vue)
-- PHP 🐘 (Laravel, CakePhp)
-- Python 🐍 (Django)
+- PHP 🐘 (Laravel)
+- Python 🐍 (Django, Flask)
 - Docker 🐳
+
+### Currently trying 📚
+- Rust 🦀
