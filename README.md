@@ -5,6 +5,7 @@
 - Javascript/typescript 🟡🔵 (Angular, Vue)
 - PHP 🐘 (Laravel)
 - Python 🐍 (Django, Flask)
+- Ionic, Flutter and Kotlin 📱
 - Docker 🐳
 
 ### Currently trying 📚
