@@ -2,9 +2,9 @@
 💻 I’m a full-stack and mobile developer
 
 ### Tech 👨‍💻
-- Javascript/typescript 🟡🔵 (Angular, Vue)
-- PHP 🐘 (Laravel)
-- Python 🐍 (Django, Flask)
+- Javascript/typescript 🟡🔵
+- PHP 🐘
+- Python 🐍
 - Ionic, Flutter and Kotlin 📱
 - Docker 🐳
 
