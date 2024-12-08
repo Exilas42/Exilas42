@@ -9,5 +9,4 @@
 - Docker 🐳
 
 ### Currently trying 📚
-- GO :shipit:
-- Rust 🦀
+- Go :shipit:
