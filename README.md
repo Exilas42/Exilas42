@@ -8,15 +8,16 @@ I’m a french full stack developer and I'm currently working for a company in L
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
 
 ### Some projects I'm working on...
-#### Smaug 🐉
-A simple expense tracking application made with Go 💙. The purpose was to learn Go by building an simple application
+#### Recodly 💿
+A place where you can create and manage your LP records, CD etc
 Here's a preview of the stack : 
-- Go (with Chi)
-- Goose and Sqlc
-- Docker
-- Traefik
-- Laminar CI for CI/CD workflow
-- Postgresql
+- Django 🐍
+- TailwindCSS with DaisyUI 💮
+- VietJS and AplineJS ⚡
+- Docker 🐳
+- Traefik 🚙
+- Laminar CI for CI/CD workflow 🔃
+- Postgresql 🐘
 
 #### Exilab
 That's my portfolio, almost up to date... It was made with Vue.Js, TailwindCSS and you can see it here 👉 [the lab 🧪](https://exilab.fr)
